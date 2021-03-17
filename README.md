@@ -2,7 +2,7 @@
 
 <a href="https://hp.vector.co.jp/authors/VA018351/en/claunch.html" target="_blank">https://hp.vector.co.jp/authors/VA018351/en/claunch.html</a>
 
-# Npp-rus
+# Notepad++
 
 Russian localization for Notepad++  
 * Без раздражающего сКаКаНиЯ ТеКсТа и лишних символов.  
