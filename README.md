@@ -4,7 +4,7 @@
 
   [1]: https://hp.vector.co.jp/authors/VA018351/en/claunch.html
 
-# FastCopy
+# FastCopy-rus
 
   <a href="https://fastcopy.jp/" target="_blank">Сайт</a> | <a href="https://groups.google.com/forum/#!forum/fastcopy-bb-eng" target="_blank">Форум</a>
   
