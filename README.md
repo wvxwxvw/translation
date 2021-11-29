@@ -4,6 +4,12 @@
 
   [1]: https://hp.vector.co.jp/authors/VA018351/en/claunch.html
   
+ # CPix + Pictor
+
+[http://www.filefriend.net/](http://www.filefriend.net/)  
+  
+CPix - маленький портативный просмотрщик изображений с собственным редактором (Pictor) в комплекте. В программах доступны как простейшие операции, так и нестандартные возможности, такие как, несколько изображений в одном файле, шифрование файлов и подложные изображения (два изображений в одном файле, одно из которых скрыто и его просмотр возможен только по паролю).
+  
 # CClibor-rus
 
   <a href="https://chigusa-web.com/download/#i" target="_blank">https://chigusa-web.com/download/#i</a>  
