@@ -1,3 +1,7 @@
+# Beyond Compare x64 rus  
+  
+Слегка измененный официальный перевод. Исправил длинные заголовки кнопок и еще несколько строк.  
+  
 # CLaunch-rus
 
 [https://hp.vector.co.jp/authors/VA018351/en/claunch.html][1]
