@@ -25,6 +25,8 @@ CPix - маленький портативный просмотрщик изоб
   
 # Colormania
 
+  [blacksunsoftware](http://www.blacksunsoftware.com/screenmagnifier.html)
+  
 Лучший пикер цвета, переведен.
   
 # FastCopy-rus
