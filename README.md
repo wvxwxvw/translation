@@ -2,7 +2,7 @@
   
 Слегка измененный официальный перевод. Исправил длинные заголовки кнопок и еще несколько строк.  
   
-# CLaunch-rus
+# CLaunch
 
 [https://hp.vector.co.jp/authors/VA018351/en/claunch.html][1]
 
