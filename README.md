@@ -1,4 +1,4 @@
-# Beyond Compare x64 rus  
+# Beyond Compare x64  
   
 Слегка измененный официальный перевод. Исправил длинные заголовки кнопок и еще несколько строк.  
   
@@ -14,7 +14,7 @@
   
 CPix - маленький портативный просмотрщик изображений с собственным редактором (Pictor) в комплекте. В программах доступны как простейшие операции, так и нестандартные возможности, такие как, несколько изображений в одном файле, шифрование файлов и подложные изображения (два изображений в одном файле, одно из которых скрыто и его просмотр возможен только по паролю).
   
-# Clibor-rus
+# Clibor
 
   <a href="https://chigusa-web.com/download/#i" target="_blank">https://chigusa-web.com/download/#i</a>  
   <a href="https://chigusa-web.com/en/download/#Clibor" target="_blank">https://chigusa-web.com/en/download/#Clibor</a>  
