@@ -29,6 +29,14 @@ CPix - маленький портативный просмотрщик изоб
   
 Лучший пикер цвета, переведен.
   
+# IconViewer
+  
+  [botproductions](https://www.botproductions.com/iconview/iconview.html)
+  
+Расширение проводника, добавляет в Свойства файла, содержащего иконки (exe и
+dll), закладку Icons, где можно просмотреть иконки, узнать их номер, извлечь и
+сохранить. Бесплатнjt. Перевод в комплекте.
+  
 # FastCopy
 
   <a href="https://fastcopy.jp/" target="_blank">Сайт</a> | <a href="https://groups.google.com/forum/#!forum/fastcopy-bb-eng" target="_blank">Форум</a>
